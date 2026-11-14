@@ -1,0 +1,2 @@
+Python executable: /opt/pyvenv/bin/python
+Python version: 3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]

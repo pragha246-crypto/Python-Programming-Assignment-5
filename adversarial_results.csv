@@ -1,0 +1,9 @@
+case_id,complaint_text,reviewed_expected_category,baseline_prediction,review_aware_prediction,review_flag,baseline_correct,review_aware_correct
+A01,The parcel was not late; the refund is missing.,Billing,Delivery,UNCERTAIN,NEGATION_REQUIRES_REVIEW,False,False
+A02,"The product is not broken, but my account is locked.",Account Access,UNCERTAIN,UNCERTAIN,NEGATION_REQUIRES_REVIEW,False,False
+A03,"Support replied quickly, but the invoice amount is wrong.",Billing,UNCERTAIN,UNCERTAIN,MIXED_CATEGORY_SCORE,False,False
+A04,The courier delivered the parcel to the wrong address.,Delivery,Delivery,Delivery,RULE_BASED_MATCH,True,True
+A05,My password reset code never arrived.,Account Access,Account Access,UNCERTAIN,NEGATION_REQUIRES_REVIEW,True,False
+A06,The device becomes hot and stopped working.,Product Quality,Product Quality,Product Quality,RULE_BASED_MATCH,True,True
+A07,I have never received a response from support.,Support,Support,UNCERTAIN,NEGATION_REQUIRES_REVIEW,True,False
+A08,The order was fine; I need a refund for a duplicate payment.,Billing,Billing,Billing,RULE_BASED_MATCH,True,True

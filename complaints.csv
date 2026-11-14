@@ -1,0 +1,51 @@
+complaint_id,date,channel,category,complaint_text,status,resolution_days
+C001,2026-10-01,Web,Delivery,I am contacting the service team about a recent order. My parcel arrived later than the promised date. This has affected my plans and I need a clear update.,Open,
+C002,2026-10-02,Email,Delivery,I need help with an issue from my latest service request. The tracking page has not changed since dispatch. Please investigate the issue and explain the next steps.,Resolved,3
+C003,2026-10-03,Phone,Delivery,This message explains a problem I experienced recently. I would appreciate a suitable resolution as soon as possible. The courier marked the package delivered but I did not receive it.,Open,
+C004,2026-10-04,Mobile App,Delivery,I am contacting the service team about a recent order. The delivery address was correct but the parcel went to another location. This has affected my plans and I need a clear update.,Resolved,5
+C005,2026-10-05,Web,Delivery,I need help with an issue from my latest service request. My parcel arrived later than the promised date. Please investigate the issue and explain the next steps.,Open,
+C006,2026-10-06,Email,Delivery,This message explains a problem I experienced recently. I would appreciate a suitable resolution as soon as possible. The tracking page has not changed since dispatch.,Resolved,7
+C007,2026-10-07,Phone,Delivery,I am contacting the service team about a recent order. The courier marked the package delivered but I did not receive it. This has affected my plans and I need a clear update.,Open,
+C008,2026-10-08,Mobile App,Delivery,I need help with an issue from my latest service request. The delivery address was correct but the parcel went to another location. Please investigate the issue and explain the next steps.,Resolved,9
+C009,2026-10-09,Web,Delivery,This message explains a problem I experienced recently. I would appreciate a suitable resolution as soon as possible. My parcel arrived later than the promised date.,Open,
+C010,2026-10-10,Email,Delivery,I am contacting the service team about a recent order. The tracking page has not changed since dispatch. This has affected my plans and I need a clear update.,Resolved,2
+C011,2026-10-11,Phone,Delivery,I need help with an issue from my latest service request. The courier marked the package delivered but I did not receive it. Please investigate the issue and explain the next steps.,Open,
+C012,2026-10-12,Mobile App,Delivery,This message explains a problem I experienced recently. I would appreciate a suitable resolution as soon as possible. The delivery address was correct but the parcel went to another location.,Resolved,4
+C013,2026-10-13,Web,Delivery,I am contacting the service team about a recent order. My parcel arrived later than the promised date. This has affected my plans and I need a clear update.,Open,
+C014,2026-10-14,Email,Delivery,I need help with an issue from my latest service request. The tracking page has not changed since dispatch. Please investigate the issue and explain the next steps.,Resolved,6
+C015,2026-10-15,Phone,Delivery,This message explains a problem I experienced recently. I would appreciate a suitable resolution as soon as possible. The courier marked the package delivered but I did not receive it.,Open,
+C016,2026-10-16,Mobile App,Delivery,I am contacting the service team about a recent order. The delivery address was correct but the parcel went to another location. This has affected my plans and I need a clear update.,Resolved,8
+C017,2026-10-17,Web,Delivery,I need help with an issue from my latest service request. My parcel arrived later than the promised date. Please investigate the issue and explain the next steps.,Open,
+C018,2026-10-18,Email,Delivery,This message explains a problem I experienced recently. I would appreciate a suitable resolution as soon as possible. The tracking page has not changed since dispatch.,Resolved,1
+C019,2026-10-19,Phone,Billing,I am contacting the service team about a recent order. The invoice contains an incorrect amount. This has affected my plans and I need a clear update.,Open,
+C020,2026-10-20,Mobile App,Billing,I need help with an issue from my latest service request. A payment was taken even though the order was cancelled. Please investigate the issue and explain the next steps.,Resolved,3
+C021,2026-10-21,Web,Billing,This message explains a problem I experienced recently. I would appreciate a suitable resolution as soon as possible. I was charged twice for the same order.,Open,
+C022,2026-10-22,Email,Billing,I am contacting the service team about a recent order. The refund has not appeared in my account. This has affected my plans and I need a clear update.,Resolved,5
+C023,2026-10-23,Phone,Billing,I need help with an issue from my latest service request. The invoice contains an incorrect amount. Please investigate the issue and explain the next steps.,Open,
+C024,2026-10-24,Mobile App,Billing,This message explains a problem I experienced recently. I would appreciate a suitable resolution as soon as possible. A payment was taken even though the order was cancelled.,Resolved,7
+C025,2026-10-25,Web,Billing,I am contacting the service team about a recent order. I was charged twice for the same order. This has affected my plans and I need a clear update.,Open,
+C026,2026-10-26,Email,Billing,I need help with an issue from my latest service request. The refund has not appeared in my account. Please investigate the issue and explain the next steps.,Resolved,9
+C027,2026-10-27,Phone,Billing,This message explains a problem I experienced recently. I would appreciate a suitable resolution as soon as possible. The invoice contains an incorrect amount.,Open,
+C028,2026-10-28,Mobile App,Billing,I am contacting the service team about a recent order. A payment was taken even though the order was cancelled. This has affected my plans and I need a clear update.,Resolved,2
+C029,2026-10-01,Web,Billing,I need help with an issue from my latest service request. I was charged twice for the same order. Please investigate the issue and explain the next steps.,Open,
+C030,2026-10-02,Email,Product Quality,This message explains a problem I experienced recently. I would appreciate a suitable resolution as soon as possible. The product was damaged inside the sealed package.,Resolved,4
+C031,2026-10-03,Phone,Product Quality,I am contacting the service team about a recent order. The device becomes unusually hot during normal use. This has affected my plans and I need a clear update.,Open,
+C032,2026-10-04,Mobile App,Product Quality,I need help with an issue from my latest service request. The supplied item does not match the advertised description. Please investigate the issue and explain the next steps.,Resolved,6
+C033,2026-10-05,Web,Product Quality,This message explains a problem I experienced recently. I would appreciate a suitable resolution as soon as possible. The item stopped working shortly after it arrived.,Open,
+C034,2026-10-06,Email,Product Quality,I am contacting the service team about a recent order. The product was damaged inside the sealed package. This has affected my plans and I need a clear update.,Resolved,8
+C035,2026-10-07,Phone,Product Quality,I need help with an issue from my latest service request. The device becomes unusually hot during normal use. Please investigate the issue and explain the next steps.,Open,
+C036,2026-10-08,Mobile App,Product Quality,This message explains a problem I experienced recently. I would appreciate a suitable resolution as soon as possible. The supplied item does not match the advertised description.,Resolved,1
+C037,2026-10-09,Web,Product Quality,I am contacting the service team about a recent order. The item stopped working shortly after it arrived. This has affected my plans and I need a clear update.,Open,
+C038,2026-10-10,Email,Product Quality,I need help with an issue from my latest service request. The product was damaged inside the sealed package. Please investigate the issue and explain the next steps.,Resolved,3
+C039,2026-10-11,Phone,Account Access,This message explains a problem I experienced recently. I would appreciate a suitable resolution as soon as possible. My account is locked and the recovery link fails.,Open,
+C040,2026-10-12,Mobile App,Account Access,I am contacting the service team about a recent order. The application keeps rejecting my correct login details. This has affected my plans and I need a clear update.,Resolved,5
+C041,2026-10-13,Web,Account Access,I need help with an issue from my latest service request. I cannot sign in even after resetting my password. Please investigate the issue and explain the next steps.,Open,
+C042,2026-10-14,Email,Account Access,This message explains a problem I experienced recently. I would appreciate a suitable resolution as soon as possible. The verification code never reaches my registered contact.,Resolved,7
+C043,2026-10-15,Phone,Account Access,I am contacting the service team about a recent order. My account is locked and the recovery link fails. This has affected my plans and I need a clear update.,Open,
+C044,2026-10-16,Mobile App,Account Access,I need help with an issue from my latest service request. The application keeps rejecting my correct login details. Please investigate the issue and explain the next steps.,Resolved,9
+C045,2026-10-17,Web,Support,This message explains a problem I experienced recently. I would appreciate a suitable resolution as soon as possible. I have contacted support but nobody has replied.,Open,
+C046,2026-10-18,Email,Support,I am contacting the service team about a recent order. The support agent closed my request without an explanation. This has affected my plans and I need a clear update.,Resolved,2
+C047,2026-10-19,Phone,Support,I need help with an issue from my latest service request. I am still waiting for an update from the help desk. Please investigate the issue and explain the next steps.,Open,
+C048,2026-10-20,Mobile App,Support,This message explains a problem I experienced recently. I would appreciate a suitable resolution as soon as possible. The response did not answer the question I asked.,Resolved,4
+C049,2026-10-15,Web,Delivery,   ,Open,
+C001,2026-10-16,Email,Billing,Duplicate identifier record for audit testing.,Resolved,3

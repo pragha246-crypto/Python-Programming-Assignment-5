@@ -1,0 +1,5 @@
+records,loop_median_ms,counter_median_ms,sqlite_query_median_ms,trials,outputs_verified_equal
+50,0.0112,0.006,0.0132,5,True
+500,0.0971,0.0133,0.0741,5,True
+5000,1.0164,0.13,0.8596,5,True
+50000,10.8703,1.5397,10.5463,5,True

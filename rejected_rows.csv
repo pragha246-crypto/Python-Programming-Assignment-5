@@ -1,0 +1,3 @@
+source_line,complaint_id,rejection_reasons,original_text
+50,C049,EMPTY_TEXT,   
+51,C001,DUPLICATE_ID,Duplicate identifier record for audit testing.
