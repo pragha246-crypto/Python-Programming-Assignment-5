@@ -1,14 +1,14 @@
-Python Programming – Assignment 5
+#Python Programming – Assignment 5
 
-AI-Powered Customer Complaint Analysis and Summarisation System Using Python
+##AI-Powered Customer Complaint Analysis and Summarisation System Using Python
 
-About the Project
+###About the Project
 
 This project is part of my Python Programming Assignment 5. The main objective is to develop a Python-based system that can analyse customer complaints, identify important information, and generate short summaries to make complaint handling easier.
 
 The project uses Python concepts such as data handling, file operations, text processing, data analysis, SQLite database operations, and performance evaluation.
 
-Project Objectives
+###Project Objectives
 
 - Process and clean customer complaint data.
 - Organise complaints into different categories.
@@ -19,14 +19,14 @@ Project Objectives
 - Store and retrieve data using an SQLite database.
 - Evaluate the performance and reliability of the implemented methods.
 
-Technologies Used
+###Technologies Used
 
 - Programming Language: Python
 - Database: SQLite
 - Libraries: CSV, Collections, Regular Expressions, Statistics, Matplotlib
 - Tools: Python IDLE / VS Code
 
-Project Structure
+###Project Structure
 
 The repository contains the following project materials:
 
@@ -41,7 +41,7 @@ The repository contains the following project materials:
 - Automated test cases.
 - Project documentation and execution reports.
 
-How to Run the Project
+###How to Run the Project
 
 1. Download or clone this repository.
 2. Extract the files if downloaded as a ZIP.
@@ -59,6 +59,6 @@ Through this assignment, I gained practical experience in Python programming, ha
 
 I also learned how different Python techniques can be combined to solve a real-world problem.
 
-Conclusion
+##Conclusion
 
 This project demonstrates how Python can be used to simplify customer complaint analysis and summarisation. It provides a basic automated approach to organising complaints and identifying important information, while keeping human review important for final decisions.
